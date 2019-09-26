@@ -979,7 +979,7 @@ const emojiItems = [
     },
     {
         title: "Once",
-        emojiImgs: "🎹👩‍❤️‍👨🎸",
+        emojiImgs: "🎹👩‍❤️‍👨🎸🇨🇮",
         genres: ["drama", "music", "romance"],
         type: "movie",
         year: 2007,
