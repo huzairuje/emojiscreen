@@ -976,5 +976,13 @@ const emojiItems = [
         genres: ["comedy"],
         type: "movie",
         year: 1974
+    },
+    {
+        title: "Once",
+        emojiImgs: "🎹👩‍❤️‍👨🎸",
+        genres: ["drama", "music", "romance"],
+        type: "movie",
+        year: 2007,
+        itemLink: "https://www.imdb.com/title/tt00907657/"
     }
 ]
